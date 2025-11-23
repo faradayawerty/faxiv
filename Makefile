@@ -3,7 +3,7 @@ VERSION = 24
 srcdir = .
 VPATH = $(srcdir)
 
-PREFIX = /usr/local
+PREFIX = ~/.local
 MANPREFIX = $(PREFIX)/share/man
 
 CC = cc
