@@ -1,3 +1,4 @@
+# sxiv
 VERSION = 24
 
 srcdir = .
